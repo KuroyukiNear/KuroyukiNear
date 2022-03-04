@@ -1,4 +1,4 @@
-Kuroyuki Near
+Kuroyuki Near | [Links](https://linktr.ee/KNear)
 -
 
 Project: IRIS Development Team
