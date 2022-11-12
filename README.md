@@ -1,7 +1,7 @@
 Kuroyuki Near | [Links](https://linktr.ee/KNear)
 -
 
-Project: IRIS Development Team
+Project IRIS Development Team
 - Near [Twitter](https://www.twitter.com/KuroyukiNear) | [Instagram](https://www.instagram.com/kuroyuki.near)
 - Alpha [Twitter](https://www.twitter.com/Meow_Alpha) | [Instagram](https://www.instagram.com/meow_alpha)
 
