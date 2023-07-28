@@ -2,6 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/KuroyukiNear/KuroyukiNear/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 
+**Hi👋 I'm a...**
+- *Programmer*
+- *Deceased Collector*
+- *Loli Keeper*
+- *Nuclear Weapons Manufacturer*
+
 ![I'm winner 🏆](https://github-profile-trophy.vercel.app/?username=KuroyukiNear&column=3&margin-w=15&margin-h=10&theme=discord&no-frame=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KuroyukiNear&theme=cobalt&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1200)](https://git.io/streak-stats)
