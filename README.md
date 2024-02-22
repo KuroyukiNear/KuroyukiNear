@@ -10,7 +10,7 @@
 - Talk to me on Discord `kuroyukinear`
 
 ### 🩸 Project IRIS Links
-[**Iris' Little Hut**](https://discord.gg/9RUy6suKsy)
+[**Iris' Tavern**](https://discord.gg/9RUy6suKsy)
 
 [**Invite Iris**](https://discord.com/oauth2/authorize?client_id=902720782503907358&permissions=1644971949559&scope=bot)
 
