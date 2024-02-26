@@ -1,4 +1,4 @@
-![Project IRIS](https://img.shields.io/badge/Project-IRIS-red) ![Lolicon](https://img.shields.io/badge/Weeb-Lolicon-pink) ![Profile Views](https://komarev.com/ghpvc/?username=KuroyukiNear&color=blueviolet)
+![Project IRIS](https://img.shields.io/badge/Discord-kuroyukinear-blue) ![Lolicon](https://img.shields.io/badge/Weeb-Lolicon-pink) ![Profile Views](https://komarev.com/ghpvc/?username=KuroyukiNear&color=blueviolet)
 
 <img src="https://raw.githubusercontent.com/KuroyukiNear/KuroyukiNear/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 
