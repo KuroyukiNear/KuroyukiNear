@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/KuroyukiNear/KuroyukiNear/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 
-
+![Banner](assets/N34R%20Banner.png)
 
 ### 👋 About Me
 - ***Amateur Programmer / Loli Keeper / Nuclear Weapons Manufacturer***
