@@ -3,38 +3,10 @@
 <img src="https://raw.githubusercontent.com/KuroyukiNear/KuroyukiNear/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 
 # 🌙 About Me
-  <li>
-  <a href='https://www.instagram.com/kuroyuki.near/'>
-          <img src='https://brandpalettes.com/wp-content/uploads/2018/10/Instagram-Logo-300x300.png' width='15' />
-          @kuroyuki.near
-        </a>
-        </li>
-  <li>
-  <a href='https://www.instagram.com/kuroyuki.raen/'>
-          <img src='https://brandpalettes.com/wp-content/uploads/2018/10/Instagram-Logo-300x300.png' width='15' />
-          @kuroyuki.raen
-        </a>
-        </li>
-  <li>
-  <a href='https://www.twitter.com/KuroyukiNear/'>
-          <img src='https://brandpalettes.com/wp-content/uploads/2018/02/Twitter-Logo-PNG.png' width='15' />
-          @KuroyukiNear
-        </a>
-        </li>
-
-🩸[**Iris' Tavern**](https://discord.gg/9RUy6suKsy/)
-🩸[**Invite Iris**](https://discord.com/oauth2/authorize?client_id=902720782503907358&permissions=8&scope=bot)
 
 <a href="https://kuroyukinear.github.io/Near/"  align="center">
     <img src="assets/N34R%20Banner.png">
   </a>
-
-<div align="center" style="text-align:center">
-    <a href="https://wakatime.com/@KuroyukiNear">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=KuroyukiNear&hide_progress=false&theme=dark&layout=compact&custom_title=Near's%20Stats"
-            alt="KuroyukiNear's wakatime stats">
-    </a>
-</div>
 
 # Projects
 
